@@ -1,0 +1,4 @@
+artifact_location: file:///Users/marek/Documents/Developer/RUC/2nd%20Semester/Data%20and%20Things/Hand-in/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: MLFlow Exercise 1

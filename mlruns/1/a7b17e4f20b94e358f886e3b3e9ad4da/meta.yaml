@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marek/Documents/Developer/RUC/2nd%20Semester/Data%20and%20Things/Hand-in/mlruns/1/a7b17e4f20b94e358f886e3b3e9ad4da/artifacts
+end_time: 1741784895337
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a7b17e4f20b94e358f886e3b3e9ad4da
+run_uuid: a7b17e4f20b94e358f886e3b3e9ad4da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741784894973
+status: 3
+tags: []
+user_id: marek
